@@ -1,0 +1,22 @@
+R1 - Problem, Questions and Goals
+
+1. Problem Rewritten
+
+The school is offering free tutoring, hoping that it will improve pass rates. However, the students being tutored are failing more often. An algorithm is only pointing to the program, and the school is ready to cut funding. 
+
+2. Questions a person would ask
+
+Who went to tutoring?
+Goal: Identify how the students were picked.
+
+What did students' grades look like before tutoring?
+Goal: Calculate the difference in students' grades prior to tutoring.  
+
+How much tutoring did they actually get?
+Goal: Figure out how much time a student actually goes to tutoring.
+
+Who exactly was the tutor?
+Goal: Determine the level of effective tutoring depending on the actual tutor. 
+
+3. Do these questions avoid the problem statement?
+We believe they do avoid the problem statement because they don't give a clear answer for why the program failed and focus on investigating the problem. 
