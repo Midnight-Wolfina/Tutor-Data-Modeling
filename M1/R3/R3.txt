@@ -1,0 +1,25 @@
+R3
+
+Basic cleaning
+Trim column names: Remove unnecessary surrounding whitespace from column names. (0 changes)
+Trim text values: Remove leading and trailing whitespace from cell values. (20,761 changes)
+Normalize missing values: Convert blank or null-like values to pd.NA for consistency (5,055 changes)
+Remove empty rows: Delete rows where every field is missing. (0 changes)
+Check empty columns: Identify columns containing no data. (0 changes)
+Remove exact duplicates: Deletes identical copies of records. (2,480 changes)
+
+
+Set-specific cleaning:
+tutoring_sessions.csv.gz
+If the student was present, "minutes" was set to 45. If the student was absent, "minutes" was set to 0.
+
+term_grades.csv
+There were instances of the absence cell being labelled incorrectly (the word "days" would follow the number value. The "days" portion was removed.)
+
+
+Original rows across all nine datasets: 1,201,392
+Rows after cleaning:                  1,198,912
+Rows removed:                         2,480
+
+
+
