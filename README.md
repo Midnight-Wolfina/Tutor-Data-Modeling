@@ -1,6 +1,6 @@
 # Tutor-Data-Modeling
 
-Team Members: Alyssa Moore, Stephen Hall, Gregory Whiteburst
+Team Members: Alyssa Moore, Stephen Hall, Gregory Whitehurst
 
 Topic: Education: The Tutoring Paradox
 
