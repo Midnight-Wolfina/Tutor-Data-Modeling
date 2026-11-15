@@ -16,3 +16,8 @@ M2 has:
 1. Experiment Decision, Results, and New Hypotheses
 2. Modeling
 3. Validation
+
+
+M3 has:
+1. Conclusions and Recommendations
+2. Slides for Presentation
