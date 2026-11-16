@@ -566,7 +566,7 @@ def run(data_dir: Path, output_dir: Path, bootstrap_reps: int) -> None:
     for j, (tr_i, va_i) in enumerate(folds, start=1):
         if np.unique(y_train[tr_i]).size < 2 or np.unique(y_train[va_i]).size < 2:
             raise ValueError(f'Unstratified fold {j} has a single class; ROC AUC undefined.')
-    mlflow.set_tracking_uri((output_dir.resolve() / 'mlruns').as_uri())
+    mlflow.set_tracking_uri("http://10.0.100.20:5000")
     mlflow.set_experiment('R6-R8_Decision_Tree_IEP_Bus_Low_GPA')
     candidate_rows, fold_rows = [], []
     source_script = Path(__file__).resolve()
