@@ -14,9 +14,9 @@ Hypothesis 1: If the tutored students have a disability or ride the bus, then th
 
 Experiment: 
 
-Using Model:
+Using Model: Decision Tree Classifier
 
-Validation:
+Validation: 5 Fold Cross Validation
 
 Result:
 
