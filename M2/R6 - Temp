@@ -12,7 +12,7 @@ R6 - Experiments and New Hypothesis
 
 Hypothesis 1: If the tutored students have a disability or ride the bus, then they are likely to have a low GPA.
 
-Experiment: 
+Experiment: Comparing the GPA's of students with disabilities and have rides and averaging them.
 
 Using Model: Decision Tree Classifier
 
@@ -22,7 +22,7 @@ Result:
 
 Hypothesis 2: If students have high grades in different courses, then they don't need tutoring in those same courses.
 
-Experiment: 
+Experiment: Students refered in term 2 so their term 1 grade is before being tutored. Then split by term 1 and compare it to term 3 grade.
 
 Using Model: Naives Bayes
 
