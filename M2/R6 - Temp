@@ -24,8 +24,8 @@ Hypothesis 2: If students have high grades in different courses, then they don't
 
 Experiment: 
 
-Using Model:
+Using Model: Naives Bayes
 
-Validation:
+Validation: 5 Fold Cross Validation
 
 Result:
