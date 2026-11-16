@@ -18,7 +18,7 @@ Using Model: Decision Tree Classifier
 
 Validation: 5 Fold Cross Validation
 
-Result:
+Result: Of the 10,416 students with tutoring that we analyzed, 60.5% of the students that either rode the bus or had an IEP had a GPA below 2.0, compared with 52.7% that did not have either of those traits. Students that had an IEP and rode the bus had a 72.1% rate of GPAs below 2.0. These factors were weak predictors of low GPA, with only a cross-validation ROC AUC of .559.
 
 Hypothesis 2: If students have high grades in different courses, then they don't need tutoring in those same courses.
 
